@@ -35,14 +35,13 @@
 
 3. **Set Up the Database:**
    ```
-   python manage.py migrate
    ```
 
 4. **Run the Application:**
    ```
    python main.py
    ```
-   also tried this if you got different version:
+   also try this if you got different version or you got an error:
    ```
    python3 main.py
    ```
